@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f7cae08d830c4d7abafb79ffaec4de6, type: 3}
+  m_Name: TouchToScreen
+  m_EditorClassIdentifier: 
+  defaultLanguage: 10
+  localizeUIDetails:
+  - systemLanguage: 10
+    font: {fileID: 12800000, guid: dca7afcde023a8a4a8aa8debbdbd5427, type: 3}
+    text: Touch to screen !
+  - systemLanguage: 22
+    font: {fileID: 12800000, guid: 518e233120ce142c5aae91846a6e07ee, type: 3}
+    text: "\u753B\u9762\u3092\u30BF\u30C3\u30C1"
+  - systemLanguage: 40
+    font: {fileID: 12800000, guid: 8743d863a9d3b4e7e928cdbe75a0867c, type: 3}
+    text: "\u89E6\u6478\u5C4F\u5E55\uFF01"
+  - systemLanguage: 41
+    font: {fileID: 12800000, guid: f1779b8c89ee44aaf8ce247c1c32691d, type: 3}
+    text: "\u89F8\u6478\u5C4F\u5E55\uFF01"

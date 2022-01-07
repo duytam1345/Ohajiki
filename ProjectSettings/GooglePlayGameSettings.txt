@@ -1,0 +1,9 @@
+lastUpgrade=01014
+proj.pluginVersion=0.10.14
+proj.AppId=635514665149
+and.BundleId=cloud.VolcanoGames.HyperCasualTemplate
+proj.classDir=Assets
+proj.ConstantsClassName=GPGSIds
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0a%3c%21--Google+Play+game+services+IDs.+Save+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.--%3e%0a%3cresources%3e%0a++%3c%21--app_id--%3e%0a++%3cstring+name%3d%22app_id%22+translatable%3d%22false%22%3e635514665149%3c%2fstring%3e%0a++%3c%21--package_name--%3e%0a++%3cstring+name%3d%22package_name%22+translatable%3d%22false%22%3ecloud.VolcanoGames.HyperCasualTemplate%3c%2fstring%3e%0a++%3c%21--achievement+LevelClear_001--%3e%0a++%3cstring+name%3d%22achievement_levelclear_001%22+translatable%3d%22false%22%3eCgkIvfGAvb8SEAIQAQ%3c%2fstring%3e%0a++%3c%21--achievement+LevelClear_002--%3e%0a++%3cstring+name%3d%22achievement_levelclear_002%22+translatable%3d%22false%22%3eCgkIvfGAvb8SEAIQAg%3c%2fstring%3e%0a++%3c%21--achievement+LevelClear_003--%3e%0a++%3cstring+name%3d%22achievement_levelclear_003%22+translatable%3d%22false%22%3eCgkIvfGAvb8SEAIQAw%3c%2fstring%3e%0a++%3c%21--achievement+LevelClear_004--%3e%0a++%3cstring+name%3d%22achievement_levelclear_004%22+translatable%3d%22false%22%3eCgkIvfGAvb8SEAIQBA%3c%2fstring%3e%0a++%3c%21--achievement+LevelClear_005--%3e%0a++%3cstring+name%3d%22achievement_levelclear_005%22+translatable%3d%22false%22%3eCgkIvfGAvb8SEAIQBQ%3c%2fstring%3e%0a++%3c%21--leaderboard+Level+Leader--%3e%0a++%3cstring+name%3d%22leaderboard_level_leader%22+translatable%3d%22false%22%3eCgkIvfGAvb8SEAIQBg%3c%2fstring%3e%0a%3c%2fresources%3e
+and.ClientId=
+android.SetupDone=true
