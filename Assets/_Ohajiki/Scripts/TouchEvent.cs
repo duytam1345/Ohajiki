@@ -105,5 +105,10 @@ namespace HyperCasualTemplate
 
             return touchPos;
         }
+
+        public int GetTouchCount()
+        {
+            return Input.touchCount;
+        }
     }
 }
